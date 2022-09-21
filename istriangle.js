@@ -1,5 +1,5 @@
 const inputs = document.querySelectorAll('.angle-input');
-const isTriangleBtn = document.querySelector('#is-triangle-btn')
+const isTriangleBtn = document.querySelector('#is-triangle')
 const outputE1 = document.querySelector('#output');
 
 
@@ -18,5 +18,5 @@ function isTrangle() {
 
 }
 
-isTriangleBtn.addEventListener("click", isTriangle);
+isTriangleBtn.addEventListener("click", isTriangleBtn);
 
