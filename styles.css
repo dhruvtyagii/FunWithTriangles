@@ -1,0 +1,27 @@
+
+
+.container{
+    max-width: 600px;
+    margin: auto;
+    padding: 1rem;
+    margin-bottom: 2px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9575cd;
+}
+
+
+
+.navigation {
+ 
+        color: white;
+        padding: .5rem;
+        text-align: center;
+        background-color: silver;
+}
+
+
+#is-triangle {
+
+    margin-top: 2rem;
+}
